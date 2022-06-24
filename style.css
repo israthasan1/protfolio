@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
+margin: 0px;
 }
 #span1{
     color: rgb(96, 96, 238);
@@ -11,7 +12,8 @@ font-family: 'Roboto', sans-serif;
 .cintainer{
     display: flex;
     background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
+   
 }
 .half-width{
     width: 50%;
@@ -32,4 +34,5 @@ font-family: 'Roboto', sans-serif;
   background-image:linear-gradient(green,yellow,red );
   padding: 5px 15px;
   border-radius: 50px;
+  font-weight: lighter;
 }
