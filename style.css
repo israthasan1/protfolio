@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+#span1{
+    color: rgb(96, 96, 238);
+}
+.heading{
+    font-size: 40px;
+}
+.cintainer{
+    display: flex;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding-left: 40px;
+    
+}
+.half-width img{
+  width: 75%;
+  padding: 30px;
+}
+.half-width p{
+   text-align: justify; 
+   width: 70%;
+}
+#link1{
+  text-decoration: none;  
+  color: rgb(136, 11, 238);
+  background-image:linear-gradient(green,yellow,red );
+  padding: 5px 15px;
+  border-radius: 50px;
+}
